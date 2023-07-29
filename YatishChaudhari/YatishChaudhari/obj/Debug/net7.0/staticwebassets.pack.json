@@ -1,0 +1,313 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\YatishChaudhari.bundle.scp.css",
+      "PackagePath": "staticwebassets\\YatishChaudhari.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\12643487.jpg",
+      "PackagePath": "staticwebassets\\products\\12643487.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\15587367.jpg",
+      "PackagePath": "staticwebassets\\products\\15587367.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\20230723012140443.jpg",
+      "PackagePath": "staticwebassets\\products\\20230723012140443.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\20230723012511775.jpg",
+      "PackagePath": "staticwebassets\\products\\20230723012511775.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\20230723091010680.jpg",
+      "PackagePath": "staticwebassets\\products\\20230723091010680.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\22866337.jpg",
+      "PackagePath": "staticwebassets\\products\\22866337.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\57415624.jpg",
+      "PackagePath": "staticwebassets\\products\\57415624.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\66899970.jpg",
+      "PackagePath": "staticwebassets\\products\\66899970.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\83655305.jpg",
+      "PackagePath": "staticwebassets\\products\\83655305.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\84600886.jpg",
+      "PackagePath": "staticwebassets\\products\\84600886.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\91537624.jpg",
+      "PackagePath": "staticwebassets\\products\\91537624.jpg"
+    },
+    {
+      "Id": "D:\\netKochi\\YatishChaudhari\\YatishChaudhari\\wwwroot\\products\\iphone14.jpg",
+      "PackagePath": "staticwebassets\\products\\iphone14.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.YatishChaudhari.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.YatishChaudhari.props",
+      "PackagePath": "build\\YatishChaudhari.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.YatishChaudhari.props",
+      "PackagePath": "buildMultiTargeting\\YatishChaudhari.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.YatishChaudhari.props",
+      "PackagePath": "buildTransitive\\YatishChaudhari.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
